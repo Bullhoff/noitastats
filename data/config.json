@@ -1,0 +1,85 @@
+{
+	"general": {
+		"debug": false
+	},
+	"paths": {
+		"Noita": "C:\\Steam\\steamapps\\common\\Noita\\",
+		"NoitaStats": "C:\\Users\\D\\Documents\\11C\\Programming\\Golang\\workspace\\noitastats\\data\\",
+		"Nolla_Games_Noita": "C:\\Users\\D\\appdata\\locallow\\Nolla_Games_Noita\\",
+		"noitaStats_configjson": "%NoitaStats%/config.json",
+		"noitaStats_templatejson": "%NoitaStats%/template_entity.json",
+		"noitaStats_sync_to": "%NoitaStats%/noitasaves/",
+		"noita_data_folder": "%Nolla_Games_Noita%/data/",
+		"save00": "%Nolla_Games_Noita%/save00/",
+		"playerxml": "%Nolla_Games_Noita%/save00/player.xml",
+		"worldstatexml": "%Nolla_Games_Noita%/save00/world_state.xml",
+		"stats": "%Nolla_Games_Noita%/save00/stats/",
+		"sessions": "%Nolla_Games_Noita%/save00/stats/sessions/"
+	},
+	"window": {
+		"always_on_top": false,
+		"window_title": "NoitaStats",
+		"remember_pos": true,
+		"pos_x": 482,
+		"pos_y": 163,
+		"remember_size": true,
+		"size_x": 1181,
+		"size_y": 662
+	},
+	"highlight": [
+		{
+			"active": false,
+			"color": "Chocolate",
+			"string": "Text to highlight"
+		},
+		{
+			"active": false,
+			"color": "#D2691E",
+			"string": "Text to highlight"
+		}
+	],
+	"state": {
+		"sidemenu": {
+			"open": true,
+			"sort_by": "datetime",
+			"display_filestatus": true,
+			"display_input": true,
+			"display_extra": true
+		},
+		"session": {
+			"open": true,
+			"subviews": {
+				"data": {
+					"open": false
+				},
+				"fungal_shifts": {
+					"open": true
+				},
+				"game_info": {
+					"open": true
+				},
+				"items": {
+					"open": true
+				},
+				"perks": {
+					"open": true
+				},
+				"spells": {
+					"open": true
+				},
+				"wands": {
+					"open": true
+				}
+			}
+		},
+		"alldata": {
+			"open": true
+		},
+		"lifetime_calculator": {
+			"open": false
+		},
+		"debug": {
+			"open": false
+		}
+	}
+}

@@ -1,0 +1,8 @@
+build/bin
+node_modules
+frontend/dist
+logger.txt
+log.txt
+
+**/_*
+**/node_modules/

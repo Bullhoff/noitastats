@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "detect-file-encoding-and-language": "^2.3.2"
+  }
+}
